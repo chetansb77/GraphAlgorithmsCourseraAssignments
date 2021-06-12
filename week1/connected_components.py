@@ -1,7 +1,4 @@
-#Uses python3
-
 import sys
-
 
 def number_of_components(adj):
 
@@ -20,7 +17,6 @@ def number_of_components(adj):
         if i not in identified_node_list:
             dfs(adj[i])
             components_count = components_count + 1
-
 
     return components_count
 

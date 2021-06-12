@@ -1,1 +1,1 @@
-# GraphAlgorithmsCourseraAssignments
+# Graph Algorithms Coursera Assignments
